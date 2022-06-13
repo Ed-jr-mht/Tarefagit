@@ -1,5 +1,2 @@
-asdasdasdasd
-MEU PRIMEIRO SISTEMA DE GIT.
 
-
-mlssmdlsmdlsdm
+MEU PRIMEIRO SISTEMA DE GIT(Pronto pra ser Auterado AAAAAAAAAAAAAA)
